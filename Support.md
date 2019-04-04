@@ -1,5 +1,5 @@
                                         Indicators
-    This is an indicator that can be used to view economic employment investments in different countries. More intuitive, more convenient, and faster to view GDP employment indicators.
+   This is an indicator that can be used to view economic employment investments in different countries. More intuitive, more convenient, and faster to view GDP employment indicators.
    
    
    If you have any questions, please contact me. Thank you!  indicatorsdev@gmail.com
