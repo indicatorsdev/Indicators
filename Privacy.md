@@ -16,5 +16,5 @@
 4.  Information storage and exchange 
     a) The information and materials collected by the Software about you will be stored on the Software and/or its affiliates' servers, which may be sent to your country, region or the location where the Software collects information and materials. It is accessed, stored and displayed outside the country.
     
-5  Information security 
+5.  Information security 
    a) When using the software web service for online transactions, you will inevitably disclose your personal information, such as contact information or postal address, to the counterparty or potential counterparty. Please protect your personal information and provide it to others only when necessary. If you find that your personal information is leaked, please contact the software customer service immediately, so that the software can take corresponding measures.
